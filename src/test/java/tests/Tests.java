@@ -10,6 +10,6 @@ public class Tests extends BaseTest{
 
     @Test
     public void test2() {
-        System.out.println("c");
+        System.out.println("c"); //
     }
 }
